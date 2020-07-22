@@ -1,5 +1,5 @@
 
-console.log('we created javascript part')
+// console.log('we created javascript part')
 
 const jsdom = require("jsdom");
 const { JSDOM } = jsdom;
